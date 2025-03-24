@@ -6,3 +6,6 @@
 =======
 # lzh test2
 >>>>>>> parent of d7571e2 (修改了test3功能)
+=======
+# lzh test2
+>>>>>>> parent of d7571e2 (修改了test3功能)
